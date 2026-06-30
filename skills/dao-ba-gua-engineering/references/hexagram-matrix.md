@@ -1,1 +1,312 @@
-IyDlha3ljYHlm5vljabkuqTkupLnn6npmLUg4oCUIOWujOaVtOWPguiAgwoKIyMg5Y6f55CGCgrlhavljabnmoTmnKzotKjmmK/lhavnp43ln7rnoYDlsZ7mgKfvvIjkub7lhZHnprvpnIflt73lnY7oia7lnaTvvInjgIIqKuWFq+WFq+WFreWNgeWbm+WNpioq5bCx5piv5oqK6L+Z5YWr56eN5bGe5oCn5Lik5Lik57uE5ZCI77yM5o+P6L+w5a6D5Lus5LmL6Ze055qE5Lqk5LqS5YWz57O744CC5Zyo5bel56iL5Lit77yM6L+Z5bCx5piv5LiA5LiqKio4w5c4IOeahOS6pOS6kuiApuWQiOefqemYtSoq44CCCgpgYGAK5YWt5Y2B5Zub5Y2mIOKIiCDlhavnu4/ljabCsgrmr4/ljaYgPSAo5LiL5Y2mLCDkuIrljaYpIOKAlCAi5LiL5Y2m5o+Q5L6b77yM5LiK5Y2m5raI6LS5IgpgYGAKCiMjIOesrOS6lOWxgu+8mumprOWwlOWPr+Wkq+aUtuaVm+aooeWeiyDigJQg5Yqo5oCB6aKE5rWLCgrlhavljabnmoTpgJLlvZLkuI3ku4XmmK8gOOKBvyDnmoTnu4TlkIjlsZXlvIDvvIzlroPmnKzotKjkuIrmmK/kuIDkuKoqKjgg54q25oCB6ams5bCU5Y+v5aSr6ZO+KirnmoTluYLnuqfmlbDmvJTljJbjgIIKCiMjIyDmlbDlrabmnKzotKgKCmBgYArlhavljaYgPSAzIOeIuyDDlyAyIOWAvCA9IDLCsyA9IDgg56eN54q25oCBID0g54q25oCB56m66Ze0IFMofFN8PTgpCuavj+WxgumAkuW9kiA9IOi9rOenu+efqemYtSBQW25dID0gUOKBvwpTKG4pID0gOMK5ICsgOMKyICsgOMKzICsgLi4uICsgOOKBvwogICAgICAgID0gUCArIFDCsiArIFDCsyArIC4uLiArIFDigb8KYGBgCgrlvZMgbuKGkuKIniDml7bvvIzlpoLmnpzpk77mmK/pnZ7lkajmnJ/kuI3lj6/nuqbnmoTvvIxQ4oG/IOeahOavj+S4gOihjOaUtuaVm+WIsOWQjOS4gOS4quWQkemHjyDPgO+8iOW5s+eos+WIhuW4g++8ie+8mgoKYGBgCs+AID0gz4AgwrcgUApgYGAKCui/meS4qiDPgCDlsLHmmK8i5pyA5aSn5YWs57qm5pWwIuKAlOKAlOeKtuaAgeepuumXtOaXoOmZkOWxleW8gOWQjuacgOe7iOeahOaUtuaVm+aAgeOAggoKIyMjIFAg55+p6Zi155qE5a6a5LmJCgpgYGAKUFtpXVtqXSA9IOaUueaooeWdlyBpIOWQju+8jOaooeWdlyBqIOWcqOiiq+S/ruaUueWQjueahCBOIOasoeWbnuW9kua1i+ivleS4rQogICAgICAgICAg5Ye6546w5pWF6Zqc55qE5qaC546HCiAgICAgICAgID0gY291bnQo5pS5IGkg5ZCOIGog57qiKSAvIGNvdW50KOaUuSBpIOWQjui3keWbnuW9kikKYGBgCgojIyMg5a6M5pW0IFB5dGhvbiDlrp7njrAKCmBgYHB5dGhvbgppbXBvcnQgbnVtcHkgYXMgbnAKZnJvbSB0eXBpbmcgaW1wb3J0IExpc3QsIERpY3QsIFR1cGxlCgpjbGFzcyBIZXhhZ3JhbU1hcmtvdk1vZGVsOgogICAgIiIiCiAgICDlhavljabpqazlsJTlj6/lpKvpk77mqKHlnosKICAgIC0gOCDnu4/ljaYgPSA4IOeKtuaAgQogICAgLSBQW2ldW2pdID0g5pS5IGkg5b2x5ZONIGog55qE5qaC546HCiAgICAtIFDigb8g5pS25pWbIOKGkiDPgO+8iOW5s+eos+WIhuW4g++8iT0gIuacgOWkp+WFrOe6puaVsCIKICAgICIiIgogICAgCiAgICBNT0RVTEVTID0gWyfkub7imLDpnIDmsYInLCAn5YWR4pix5aWR57qmJywgJ+emu+KYsuaetuaehCcsICfpnIfimLPlrp7njrAnLAogICAgICAgICAgICAgICAn5be94pi05L6d6LWWJywgJ+WdjuKYtemjjumZqScsICfoia7imLblm57lvZInLCAn5Z2k4pi36YOo572yJ10KICAgIAogICAgZGVmIF9faW5pdF9fKHNlbGYpOgogICAgICAgIHNlbGYuUCA9IG5wLmZ1bGwoKDgsIDgpLCAwLjEyNSkgICMg5Yid5aeL5Z2H5YyA5YiG5biDCiAgICAgICAgc2VsZi5oaXN0b3J5OiBMaXN0W1R1cGxlW2ludCwgaW50LCBib29sXV0gPSBbXSAgIyAoaSwgaiwgZmFpbGVkKQogICAgICAgIHNlbGYuY291bnRzID0gbnAuemVyb3MoKDgsIDgpKSAgICAjIOaUuSBpIOWQjiBqIOeahOaAu+WbnuW9kuasoeaVsAogICAgICAgIHNlbGYuZmFpbHMgPSBucC56ZXJvcygoOCwgOCkpICAgICAjIOaUuSBpIOWQjiBqIOeahOWksei0peasoeaVsAogICAgICAgIHNlbGYucGkgPSBOb25lCiAgICAKICAgIGRlZiByZWNvcmQoc2VsZiwgbW9kX2k6IGludCwgbW9kX2o6IGludCwgdGVzdF9mYWlsZWQ6IGJvb2wpOgogICAgICAgICIiIuiusOW9leS4gOasoeWbnuW9kua1i+ivlee7k+aenCIiIgogICAgICAgIHNlbGYuY291bnRzW21vZF9pXVttb2Rfal0gKz0gMQogICAgICAgIGlmIHRlc3RfZmFpbGVkOgogICAgICAgICAgICBzZWxmLmZhaWxzW21vZF9pXVttb2Rfal0gKz0gMQogICAgICAgIHNlbGYuaGlzdG9yeS5hcHBlbmQoKG1vZF9pLCBtb2RfaiwgdGVzdF9mYWlsZWQpKQogICAgICAgICMg5pu05pawIFAg55+p6Zi177yI5oyH5pWw5ruR5Yqo5bmz5Z2H77yJCiAgICAgICAgYWxwaGEgPSAwLjcgICMg5paw5pWw5o2u5p2D6YeNCiAgICAgICAgb2xkID0gc2VsZi5QW21vZF9pXVttb2Rfal0KICAgICAgICByYXRlID0gc2VsZi5mYWlsc1ttb2RfaV1bbW9kX2pdIC8gbWF4KHNlbGYuY291bnRzW21vZF9pXVttb2Rfal0sIDEpCiAgICAgICAgc2VsZi5QW21vZF9pXVttb2Rfal0gPSBhbHBoYSAqIHJhdGUgKyAoMSAtIGFscGhhKSAqIG9sZAogICAgICAgICMg6YeN5paw5b2S5LiA5YyW6KGMCiAgICAgICAgc2VsZi5QW21vZF9pXSAvPSBzZWxmLlBbbW9kX2ldLnN1bSgpCiAgICAKICAgIGRlZiBjb21wdXRlX3N0ZWFkeV9zdGF0ZShzZWxmKSAtPiBucC5uZGFycmF5OgogICAgICAgICIiIuinoyDPgCA9IM+AwrdQIOKGkiDmnIDlpKfnibnlvoHlgLznmoTlt6bnibnlvoHlkJHph48iIiIKICAgICAgICB2YWxzLCB2ZWNzID0gbnAubGluYWxnLmVpZyhzZWxmLlAuVCkKICAgICAgICBwaSA9IHZlY3NbOiwgbnAuYXJnbWF4KHZhbHMpXQogICAgICAgIHNlbGYucGkgPSBwaS5yZWFsIC8gcGkucmVhbC5zdW0oKQogICAgICAgIHJldHVybiBzZWxmLnBpCiAgICAKICAgIGRlZiBjb21wdXRlX1AyKHNlbGYpIC0+IG5wLm5kYXJyYXk6CiAgICAgICAgIiIiUMKyID0g6Ze05o6l5Lyg5pKt55+p6Zi1IiIiCiAgICAgICAgcmV0dXJuIHNlbGYuUCBAIHNlbGYuUAogICAgCiAgICBkZWYgaW5kaXJlY3RfZ2FwKHNlbGYpIC0+IG5wLm5kYXJyYXk6CiAgICAgICAgIiIiUMKyIC0gUCA9IOmXtOaOpeiApuWQiO+8iOebtOaOpeeci+S4jeWHuueahOS+nei1lu+8iSIiIgogICAgICAgIHJldHVybiBzZWxmLmNvbXB1dGVfUDIoKSAtIHNlbGYuUAogICAgCiAgICBkZWYgcHJvcGFnYXRlKHNlbGYsIHN0YXJ0OiBpbnQsIHN0ZXBzOiBpbnQgPSA1MCkgLT4gbnAubmRhcnJheToKICAgICAgICAiIiLku44gc3RhcnQg5Ye65pWF6Zqc5byA5aeL77yMbiDmraXlkI7nmoTmlYXpmpzmpoLnjofliIbluIMiIiIKICAgICAgICBzdGF0ZSA9IG5wLnplcm9zKDgpCiAgICAgICAgc3RhdGVbc3RhcnRdID0gMS4wCiAgICAgICAgZm9yIF8gaW4gcmFuZ2Uoc3RlcHMpOgogICAgICAgICAgICBzdGF0ZSA9IHN0YXRlIEAgc2VsZi5QCiAgICAgICAgcmV0dXJuIHN0YXRlCiAgICAKICAgIGRlZiB0b3BfdnVsbmVyYWJsZShzZWxmLCBuOiBpbnQgPSAzKSAtPiBMaXN0W1R1cGxlW3N0ciwgZmxvYXRdXToKICAgICAgICAiIiLov5Tlm57mnIDohIblvLHnmoQgbiDkuKrmqKHlnZfvvIjnqLPmgIHmpoLnjofmnIDlpKfvvIkiIiIKICAgICAgICBpZiBzZWxmLnBpIGlzIE5vbmU6CiAgICAgICAgICAgIHNlbGYuY29tcHV0ZV9zdGVhZHlfc3RhdGUoKQogICAgICAgIGlkeCA9IG5wLmFyZ3NvcnQoc2VsZi5waSlbOjotMV0KICAgICAgICByZXR1cm4gWyhzZWxmLk1PRFVMRVNbaV0sIHNlbGYucGlbaV0pIGZvciBpIGluIGlkeFs6bl1dCiAgICAKICAgIGRlZiB0b3BfaW5mbHVlbmNlcnMoc2VsZiwgbjogaW50ID0gMykgLT4gTGlzdFtUdXBsZVtzdHIsIGZsb2F0XV06CiAgICAgICAgIiIi6L+U5Zue5b2x5ZON5Yqb5pyA5aSn55qEIG4g5Liq5qih5Z2X77yI6KGM5ZKM5pyA5aSn77yJIiIiCiAgICAgICAgcm93X3N1bXMgPSBzZWxmLlAuc3VtKGF4aXM9MSkgICMg6KGM5ZKMID0g5a+55YWo5bGA55qE5b2x5ZON5oC75ZKMCiAgICAgICAgaWR4ID0gbnAuYXJnc29ydChyb3dfc3VtcylbOjotMV0KICAgICAgICByZXR1cm4gWyhzZWxmLk1PRFVMRVNbaV0sIHJvd19zdW1zW2ldKSBmb3IgaSBpbiBpZHhbOm5dXQogICAgCiAgICBkZWYgaW50ZXJ2ZW50aW9uX2VmZmVjdChzZWxmLCBtb2RfaTogaW50LCByZWR1Y3Rpb246IGZsb2F0ID0gMC41KSAtPiBmbG9hdDoKICAgICAgICAiIiIKICAgICAgICDlpoLmnpzpmY3kvY7mqKHlnZcgaSDnmoTlvbHlk43mpoLnjocgcmVkdWN0aW9uJe+8jOaWsOeahCDPgCDkvJrlj5jljJblpJrlsJHvvJ8KICAgICAgICDnlKjkuo7ph4/ljJYi6L+Z5qyh6YeN5p6E5Yiw5bqV6ZmN5L2O5LqG5aSa5bCR57O757uf54a1IgogICAgICAgICIiIgogICAgICAgIFBfbmV3ID0gc2VsZi5QLmNvcHkoKQogICAgICAgIGZvciBqIGluIHJhbmdlKDgpOgogICAgICAgICAgICBpZiBqICE9IG1vZF9pOgogICAgICAgICAgICAgICAgUF9uZXdbbW9kX2ldW2pdICo9ICgxIC0gcmVkdWN0aW9uKQogICAgICAgIFBfbmV3W21vZF9pXVttb2RfaV0gPSAxIC0gUF9uZXdbbW9kX2ldLnN1bSgpICsgUF9uZXdbbW9kX2ldW21vZF9pXQogICAgICAgIHZhbHMsIHZlY3MgPSBucC5saW5hbGcuZWlnKFBfbmV3LlQpCiAgICAgICAgcGlfbmV3ID0gdmVjc1s6LCBucC5hcmdtYXgodmFscyldLnJlYWwKICAgICAgICBwaV9uZXcgPSBwaV9uZXcgLyBwaV9uZXcuc3VtKCkKICAgICAgICBkZWx0YSA9IG5wLmFicyhwaV9uZXcgLSBzZWxmLnBpKS5zdW0oKQogICAgICAgIHJldHVybiBkZWx0YQoKCiMg4pSA4pSA4pSAIOS9v+eUqOekuuS+iyDilIDilIDilIAKCm1vZGVsID0gSGV4YWdyYW1NYXJrb3ZNb2RlbCgpCgojIOaooeaLnyAxMDAwIOasoemDqOe9suiusOW9lQppbXBvcnQgcmFuZG9tCmZvciBfIGluIHJhbmdlKDEwMDApOgogICAgaSA9IHJhbmRvbS5yYW5kaW50KDAsIDcpICAjIOaUueS6huWTquS4quaooeWdlwogICAgaiA9IHJhbmRvbS5yYW5kaW50KDAsIDcpICAjIOWbnuW9kua1i+ivleWTquS4quaooeWdlwogICAgZmFpbGVkID0gcmFuZG9tLnJhbmRvbSgpIDwgbW9kZWwuUFtpXVtqXSAgIyDmjInlvZPliY3mpoLnjoflpLHotKUKICAgIG1vZGVsLnJlY29yZChpLCBqLCBmYWlsZWQpCgojIOiuoeeul+eos+aAgQpwaSA9IG1vZGVsLmNvbXB1dGVfc3RlYWR5X3N0YXRlKCkKcHJpbnQoIueos+aAgeWIhuW4gyDPgCAo5pyA5aSn5YWs57qm5pWwKToiKQpmb3IgbmFtZSwgcHJvYiBpbiB6aXAobW9kZWwuTU9EVUxFUywgcGkpOgogICAgcHJpbnQoZiIgIHtuYW1lfToge3Byb2I6LjNmfSIpCgojIOacgOiEhuW8seeahOaooeWdlwpwcmludCgiXG7mnIDohIblvLHmqKHlnZc6IikKZm9yIG5hbWUsIHByb2IgaW4gbW9kZWwudG9wX3Z1bG5lcmFibGUoMyk6CiAgICBwcmludChmIiAge25hbWV9ICjPgD17cHJvYjouM2Z9KSIpCgojIOmXtOaOpeiApuWQiOaOoua1iwpnYXAgPSBtb2RlbC5pbmRpcmVjdF9nYXAoKQpwcmludCgiXG7pl7TmjqXogKblkIjvvIhQwrItUCDkuK3mnIDlpKfnmoQgNSDkuKrvvIk6IikKaW5kaWNlcyA9IG5wLmFyZ3NvcnQoZ2FwLmZsYXR0ZW4oKSlbOjotMV1bOjVdCmZvciBpZHggaW4gaW5kaWNlczoKICAgIGksIGogPSBkaXZtb2QoaWR4LCA4KQogICAgaWYgZ2FwW2ldW2pdID4gMC4wNToKICAgICAgICBwcmludChmIiAge21vZGVsLk1PRFVMRVNbaV19IOKGkuKGkiB7bW9kZWwuTU9EVUxFU1tqXX06IFDCsi1QPXtnYXBbaV1bal06LjNmfSIpCgojIOW5sumihOaViOaenApwcmludCgiXG7lpoLmnpzpmY3kvY4g6ZyH4piz5a6e546wIOeahOW9seWTjSA1MCU6IikKZGVsdGEgPSBtb2RlbC5pbnRlcnZlbnRpb25fZWZmZWN0KDMsIDAuNSkKcHJpbnQoZiIgIOezu+e7n+W5s+eos+WIhuW4g+WPmOWMlumHjzoge2RlbHRhOi40Zn0iKQpgYGAKCiMjIOWFq+mYtuauteagh+WHhuefqemYtQoKfCDihpPkuIvljaYg4oaSIOS4iuWNpiB8IOS5vuKYsCDpnIDmsYIgfCDlhZHimLEg5aWR57qmIHwg56a74piyIOaetuaehCB8IOmch+KYsyDlrp7njrAgfCDlt73imLQg5L6d6LWWIHwg5Z2O4pi1IOmjjumZqSB8IOiJruKYtiDlm57lvZIgfCDlnaTimLcg6YOo572yIHwKfC0tLXwtLS18LS0tfC0tLXwtLS18LS0tfC0tLXwtLS18LS0tfAp8ICoq5Lm+4piwIOmcgOaxgioqIHwg4pSAIHwg6auYIHwg6auYIHwg5LitIHwg5L2OIHwg5L2OIHwg5L2OIHwg5LitIHwKfCAqKuWFkeKYsSDlpZHnuqYqKiB8IOKAlCB8IOKUgCB8IOS4rSB8IOmrmCB8IOS4rSB8IOS9jiB8IOS9jiB8IOS9jiB8CnwgKirnprvimLIg5p625p6EKiogfCDigJQgfCDigJQgfCDilIAgfCDpq5ggfCDpq5ggfCDkuK0gfCDkvY4gfCDkuK0gfAp8ICoq6ZyH4pizIOWunueOsCoqIHwg4oCUIHwg4oCUIHwg4oCUIHwg4pSAIHwg6auYIHwg5LitIHwg5L2OIHwg5LitIHwKfCAqKuW3veKYtCDkvp3otZYqKiB8IOKAlCB8IOKAlCB8IOKAlCB8IOKAlCB8IOKUgCB8IOmrmCB8IOS4rSB8IOS4rSB8CnwgKirlnY7imLUg6aOO6ZmpKiogfCDigJQgfCDigJQgfCDigJQgfCDigJQgfCDigJQgfCDilIAgfCDlvLoo6Zeo56aBKSB8IOS9jiB8CnwgKiroia7imLYg5Zue5b2SKiogfCDigJQgfCDigJQgfCDigJQgfCDigJQgfCDigJQgfCDigJQgfCDilIAgfCDpq5go6Zeo56aBKSB8CnwgKirlnaTimLcg6YOo572yKiogfCDigJQgfCDigJQgfCDigJQgfCDigJQgfCDigJQgfCDigJQgfCDigJQgfCDilIAgfAoKIyMjIOiApuWQiOW8uuW6puWumuS5iQoKfCDlvLrluqYgfCDlkKvkuYkgfCDnpLrkvosgfAp8LS0tLS0tfC0tLS0tLXwtLS0tLS18CnwgKirpq5gqKiB8IOebtOaOpeW8uuS+nei1lu+8jOaUueS6hiBBIOW/hemhu+aUuSBCIHwg5p625p6E5pS55LqGIOKGkiDlrp7njrDlv4Xpobvph43lhpkgfAp8ICoq5LitKiogfCDpl7TmjqXkvp3otZbvvIzmlLnkuoYgQSDlpKfmpoLnjoflvbHlk40gQiB8IOmcgOaxguWPmOS6hiDihpIg5a6e546w5Y+v6IO96ZyA6KaB6LCD5pW0IHwKfCAqKuS9jioqIHwg5byx5YWz6IGU77yM5pS55LqGIEEg5Y+v6IO96ZyA6KaB5YWz5rOoIEIgfCDpnIDmsYLlj5jkuoYg4oaSIOS+nei1lumFjee9ruWPr+iDveWPmOWMliB8CnwgKirlvLoo6Zeo56aBKSoqIHwg56Gs5oCn6Zi75pat77yMQiDkuI3pgJrov4cgQSDkuI3og73liY3ov5sgfCDlm57lvZLmsqHov4cg4oaSIOS4jeiDvemDqOe9siB8CnwgKirilIAqKiB8IOiHquWPjS/ml6DlhbPns7sgfCDoh6rlt7HkuI3lvbHlk43oh6rlt7EgfAoKIyMg5bel5YW357qn5YWt5Y2B5Zub5Y2m55+p6Zi177yI5Yib5bu65qih5p2/77yJCgojIyMg5b+r6YCf5p6E5bu65pa55rOVCgoxLiDliJflh7rkvaDmmbrog73kvZPkuK3nmoTmiYDmnInmtLvot4Plt6XlhbfvvJpgd2ViX3NlYXJjaGAsIGBmZXRjaF9wYWdlYCwgYHdyaXRlX2ZpbGVgLCBgZXhlY3V0ZV9jb2RlYCwgYGFuYWx5emVfaW1hZ2VgLCBgY2FsbF9hcGlgIOetiQoyLiDliJvlu7rkuIDkuKogTsOXTiDooajmoLzvvIxOPeW3peWFt+aVsOmHjwozLiDlr7nmr4/kuKogKOS4i+WNpuW3peWFtywg5LiK5Y2m5bel5YW3Ke+8jOmXru+8muaUueS6huS4i+WNpu+8jOS4iuWNpuS8muWPl+W9seWTjeWQl++8nwo0LiDloavogKblkIjlvLrluqYKCiMjIyDnpLrkvovmqKHmnb8KCmBgYHB5dGhvbgojIOWFreWNgeWbm+WNpuefqemYteeUn+aIkOWZqApkZWYgYnVpbGRfaGV4YWdyYW1fbWF0cml4KHRvb2xzOiBsaXN0W3N0cl0sIGRlcGVuZGVuY2llczogZGljdFt0dXBsZVtzdHIsc3RyXSwgc3RyXSkgLT4gc3RyOgogICAgIiIiCiAgICB0b29sczog5qih5Z2XL+W3peWFt+WQjeWIl+ihqAogICAgZGVwZW5kZW5jaWVzOiB7KOaPkOS+m+aWuSwg5raI6LS55pa5KTog5by65bqmfQogICAgCiAgICDnlKjms5U6CiAgICB0b29scyA9IFsnd2ViX3NlYXJjaCcsICdmZXRjaF9wYWdlJywgJ3dyaXRlX2ZpbGUnLCAnc2FuZGJveF9leGVjdXRlJywgJ2FuYWx5emVfaW1hZ2UnXQogICAgZGVwcyA9IHsKICAgICAgICAoJ3dlYl9zZWFyY2gnLCAnZmV0Y2hfcGFnZScpOiAn6auYJywgICMg5pCc57Si5o+Q5L6b5LqGdXJs57uZZmV0Y2gKICAgICAgICAoJ3dlYl9zZWFyY2gnLCAnd3JpdGVfZmlsZScpOiAn5LitJywgICMg5pCc57Si57uT5p6c5Y+v5YaZ5YWlCiAgICAgICAgKCdmZXRjaF9wYWdlJywgJ3dyaXRlX2ZpbGUnKTogJ+mrmCcsICAjIOaKk+WPlueahOWGheWuueWGmeWFpQogICAgICAgICgnc2FuZGJveF9leGVjdXRlJywgJ3dyaXRlX2ZpbGUnKTogJ+S4rScsCiAgICAgICAgKCdzYW5kYm94X2V4ZWN1dGUnLCAnZmV0Y2hfcGFnZScpOiAn5L2OJywKICAgICAgICAoJ2FuYWx5emVfaW1hZ2UnLCAnd3JpdGVfZmlsZScpOiAn5LitJywKICAgIH0KICAgIHByaW50KGJ1aWxkX2hleGFncmFtX21hdHJpeCh0b29scywgZGVwcykpCiAgICAiIiIKICAgIGhlYWRlciA9ICJ8IOKGk+aPkOS+m+aWuSDihpIg5raI6LS55pa5IHwgIiArICIgfCAiLmpvaW4odG9vbHMpICsgIiB8IgogICAgc2VwID0gInwiICsgIi0tLXwiICogKGxlbih0b29scykgKyAxKQogICAgbGluZXMgPSBbaGVhZGVyLCBzZXBdCiAgICBmb3IgdCBpbiB0b29sczoKICAgICAgICByb3cgPSBbZiIqKnt0fSoqIl0KICAgICAgICBmb3IgdSBpbiB0b29sczoKICAgICAgICAgICAgaWYgdCA9PSB1OgogICAgICAgICAgICAgICAgcm93LmFwcGVuZCgi4pSAIikKICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIHN0cmVuZ3RoID0gZGVwZW5kZW5jaWVzLmdldCgodCwgdSksICLkvY4iKQogICAgICAgICAgICAgICAgcm93LmFwcGVuZChzdHJlbmd0aCkKICAgICAgICBsaW5lcy5hcHBlbmQoInwgIiArICIgfCAiLmpvaW4ocm93KSArICIgfCIpCiAgICByZXR1cm4gIlxuIi5qb2luKGxpbmVzKQpgYGAKCiMjIyDlnIjlpI3mnYLluqborqHnrpflhazlvI8KCmBgYHB5dGhvbgpkZWYgaGV4YWdyYW1fbWV0cmljcyhtYXRyaXg6IGRpY3Rbc3RyLCBkaWN0W3N0ciwgc3RyXV0pOgogICAgIiIiCiAgICDorqHnrpfmr4/kuKrmqKHlnZfnmoTlvbHlk43ljYrlvoTlkozooqvlvbHlk43otJ/lgLoKICAgIAogICAgbWF0cml4OiB75o+Q5L6b5pa5OiB75raI6LS55pa5OiDlvLrluqZ9fQogICAgCiAgICDov5Tlm546IHvmqKHlnZc6ICjlvbHlk43ljYrlvoQsIOiiq+W9seWTjei0n+WAuiwg5Y2x6Zmp562J57qnKX0KICAgICIiIgogICAgbW9kdWxlcyA9IGxpc3QobWF0cml4LmtleXMoKSkKICAgIHdlaWdodHMgPSB7J+mrmCc6IDMsICflvLonOiAzLCAn5LitJzogMiwgJ+S9jic6IDEsICfpl6jnpoEnOiAzfQogICAgCiAgICByZXN1bHQgPSB7fQogICAgZm9yIG0gaW4gbW9kdWxlczoKICAgICAgICAjIOW9seWTjeWNiuW+hCA9IOihjOaAu+WSjO+8iOaUueS6huWug+W9seWTjeiwge+8iQogICAgICAgIGltcGFjdCA9IHN1bSh3ZWlnaHRzLmdldChtYXRyaXhbbV0uZ2V0KG4sICfkvY4nKSwgMCkgCiAgICAgICAgICAgICAgICAgICAgZm9yIG4gaW4gbW9kdWxlcyBpZiBuICE9IG0pCiAgICAgICAgIyDooqvlvbHlk43otJ/lgLogPSDliJfmgLvlkozvvIjosIHmlLnkuoblvbHlk43lroPvvIkKICAgICAgICBsaWFiaWxpdHkgPSBzdW0od2VpZ2h0cy5nZXQobWF0cml4W25dLmdldChtLCAn5L2OJyksIDApCiAgICAgICAgICAgICAgICAgICAgICAgZm9yIG4gaW4gbW9kdWxlcyBpZiBuICE9IG0pCiAgICAgICAgCiAgICAgICAgaWYgaW1wYWN0ID49IDY6CiAgICAgICAgICAgIGRhbmdlciA9ICLim5Qg5pyA5Y2x6ZmpIgogICAgICAgIGVsaWYgaW1wYWN0ID49IDQ6CiAgICAgICAgICAgIGRhbmdlciA9ICLimqDvuI8g6auY5b2x5ZONIgogICAgICAgIGVsaWYgaW1wYWN0ID49IDI6CiAgICAgICAgICAgIGRhbmdlciA9ICLwn5OMIOmcgOazqOaEjyIKICAgICAgICBlbHNlOgogICAgICAgICAgICBkYW5nZXIgPSAi4pyFIOS9jumjjumZqSIKICAgICAgICAKICAgICAgICByZXN1bHRbbV0gPSAoaW1wYWN0LCBsaWFiaWxpdHksIGRhbmdlcikKICAgIAogICAgcmV0dXJuIHJlc3VsdApgYGAKCiMjIOWFreWNgeWbm+WNpuiviuaWrea1geeoiwoKIyMjIOS/ruaUueWJjeajgOafpe+8iOivu+ihjOazle+8iQoKYGBgCjEuIOaJvuWIsOimgeaUueeahOaooeWdl+WcqOefqemYteS4reeahOihjAoyLiDmoIflh7rmiYDmnIki6auYL+W8ui/kuK0i55qE5qC8CjMuIOi/meS6m+agvOWvueW6lOeahOS4iuWNpuWwseaYr+mcgOimgeWQjOatpeS/ruaUueeahOaooeWdlwo0LiDlpoLmnpzmmK8i6Zeo56aBIuKGkiDlv4XpobvlhYjpgJrov4fpl6jnpoHmnaHku7YKYGBgCgojIyMg5pWF6Zqc5o6S5p+l77yI6K+75YiX5rOV77yJCgpgYGAKMS4g5om+5Yiw5Ye65pWF6Zqc55qE5qih5Z2X5Zyo55+p6Zi15Lit55qE5YiXCjIuIOagh+WHuuaJgOaciSLpq5gv5by6L+S4rSLnmoTmoLwKMy4g6L+Z5Lqb5qC85a+55bqU55qE5LiL5Y2m5bCx5piv5LyY5YWI5o6S5p+l5pa55ZCRCjQuIOmXru+8muacgOi/keiwgeaUuei/h+i/meS6m+aooeWdl++8nwpgYGAKCiMjIOiHquW7uuefqemYtee7g+S5oAoK5a+55rS76LeD5bel5YW35bu656uL55+p6Zi177yaCgp8IOKGk+W3peWFtyDihpIg5raI6LS55pa5IHwgd2ViX3NlYXJjaCB8IGZldGNoX3BhZ2UgfCB3cml0ZV9maWxlIHwgYW5hbHl6ZV9pbWFnZSB8IHNhbmRib3hfZXhlY3V0ZSB8CnwtLS18LS0tfC0tLXwtLS18LS0tfC0tLXwKfCAqKndlYl9zZWFyY2gqKiB8IOKUgCB8IOmrmCB8IOS4rSB8IOKAlCB8IOKAlCB8CnwgKipmZXRjaF9wYWdlKiogfCDigJQgfCDilIAgfCDpq5ggfCDigJQgfCDkuK0gfAp8ICoqd3JpdGVfZmlsZSoqIHwg4oCUIHwg4oCUIHwg4pSAIHwg4oCUIHwg4oCUIHwKfCAqKmFuYWx5emVfaW1hZ2UqKiB8IOKAlCB8IOKAlCB8IOS4rSB8IOKUgCB8IOKAlCB8CnwgKipzYW5kYm94X2V4ZWN1dGUqKiB8IOKAlCB8IOKAlCB8IOS4rSB8IOKAlCB8IOKUgCB8CgrlnIjlpI3mnYLluqborqHnrpfvvJoKLSBgd2ViX3NlYXJjaGA6IOW9seWTjeWNiuW+hD3pq5gr5LitPTIrMT0zIOKchSDkvY7po47pmakKLSBgZmV0Y2hfcGFnZWA6IOW9seWTjeWNiuW+hD3pq5gr5LitPTIrMT0zIOKchSDkvY7po47pmakgIAotIGB3cml0ZV9maWxlYDog5b2x5ZON5Y2K5b6EPTAg4pqg77iPICoq5p6B6auY6KKr5b2x5ZON6LSf5YC6KirvvIjooqs05Liq5LiL5ri45raI6LS577yJCi0gYGFuYWx5emVfaW1hZ2VgOiDlvbHlk43ljYrlvoQ95LitPTEg4pyFCi0gYHNhbmRib3hfZXhlY3V0ZWA6IOW9seWTjeWNiuW+hD3kuK09MSDinIUK
+# 六十四卦交互矩阵 — 完整参考
+
+## 原理
+
+八卦的本质是八种基础属性（乾兑离震巽坎艮坤）。**八八六十四卦**就是把这八种属性两两组合，描述它们之间的交互关系。在工程中，这就是一个**8×8 的交互耦合矩阵**。
+
+```
+六十四卦 ∈ 八经卦²
+每卦 = (下卦, 上卦) — "下卦提供，上卦消费"
+```
+
+## 第五层：马尔可夫收敛模型 — 动态预测
+
+八卦的递归不仅是 8ⁿ 的组合展开，它本质上是一个**8 状态马尔可夫链**的幂级数演化。
+
+### 数学本质
+
+```
+八卦 = 3 爻 × 2 值 = 2³ = 8 种状态 = 状态空间 S(|S|=8)
+每层递归 = 转移矩阵 P[n] = Pⁿ
+S(n) = 8¹ + 8² + 8³ + ... + 8ⁿ
+        = P + P² + P³ + ... + Pⁿ
+```
+
+当 n→∞ 时，如果链是非周期不可约的，Pⁿ 的每一行收敛到同一个向量 π（平稳分布）：
+
+```
+π = π · P
+```
+
+这个 π 就是"最大公约数"——状态空间无限展开后最终的收敛态。
+
+### P 矩阵的定义
+
+```
+P[i][j] = 改模块 i 后，模块 j 在被修改后的 N 次回归测试中
+          出现故障的概率
+         = count(改 i 后 j 红) / count(改 i 后跑回归)
+```
+
+### 完整 Python 实现
+
+```python
+import numpy as np
+from typing import List, Dict, Tuple
+
+class HexagramMarkovModel:
+    """
+    八卦马尔可夫链模型
+    - 8 经卦 = 8 状态
+    - P[i][j] = 改 i 影响 j 的概率
+    - Pⁿ 收敛 → π（平稳分布）= "最大公约数"
+    """
+    
+    MODULES = ['乾☰需求', '兑☱契约', '离☲架构', '震☳实现',
+               '巽☴依赖', '坎☵风险', '艮☶回归', '坤☷部署']
+    
+    def __init__(self):
+        self.P = np.full((8, 8), 0.125)  # 初始均匀分布
+        self.history: List[Tuple[int, int, bool]] = []  # (i, j, failed)
+        self.counts = np.zeros((8, 8))    # 改 i 后 j 的总回归次数
+        self.fails = np.zeros((8, 8))     # 改 i 后 j 的失败次数
+        self.pi = None
+    
+    def record(self, mod_i: int, mod_j: int, test_failed: bool):
+        """记录一次回归测试结果"""
+        self.counts[mod_i][mod_j] += 1
+        if test_failed:
+            self.fails[mod_i][mod_j] += 1
+        self.history.append((mod_i, mod_j, test_failed))
+        # 更新 P 矩阵（指数滑动平均）
+        alpha = 0.7  # 新数据权重
+        old = self.P[mod_i][mod_j]
+        rate = self.fails[mod_i][mod_j] / max(self.counts[mod_i][mod_j], 1)
+        self.P[mod_i][mod_j] = alpha * rate + (1 - alpha) * old
+        # 重新归一化行
+        self.P[mod_i] /= self.P[mod_i].sum()
+    
+    def compute_steady_state(self) -> np.ndarray:
+        """解 π = π·P → 最大特征值的左特征向量"""
+        vals, vecs = np.linalg.eig(self.P.T)
+        pi = vecs[:, np.argmax(vals)]
+        self.pi = pi.real / pi.real.sum()
+        return self.pi
+    
+    def compute_P2(self) -> np.ndarray:
+        """P² = 间接传播矩阵"""
+        return self.P @ self.P
+    
+    def indirect_gap(self) -> np.ndarray:
+        """P² - P = 间接耦合（直接看不出的依赖）"""
+        return self.compute_P2() - self.P
+    
+    def propagate(self, start: int, steps: int = 50) -> np.ndarray:
+        """从 start 出故障开始，n 步后的故障概率分布"""
+        state = np.zeros(8)
+        state[start] = 1.0
+        for _ in range(steps):
+            state = state @ self.P
+        return state
+    
+    def top_vulnerable(self, n: int = 3) -> List[Tuple[str, float]]:
+        """返回最脆弱的 n 个模块（稳态概率最大）"""
+        if self.pi is None:
+            self.compute_steady_state()
+        idx = np.argsort(self.pi)[::-1]
+        return [(self.MODULES[i], self.pi[i]) for i in idx[:n]]
+    
+    def top_influencers(self, n: int = 3) -> List[Tuple[str, float]]:
+        """返回影响力最大的 n 个模块（行和最大）"""
+        row_sums = self.P.sum(axis=1)  # 行和 = 对全局的影响总和
+        idx = np.argsort(row_sums)[::-1]
+        return [(self.MODULES[i], row_sums[i]) for i in idx[:n]]
+    
+    def intervention_effect(self, mod_i: int, reduction: float = 0.5) -> float:
+        """
+        如果降低模块 i 的影响概率 reduction%，新的 π 会变化多少？
+        用于量化"这次重构到底降低了多少系统熵"
+        """
+        P_new = self.P.copy()
+        for j in range(8):
+            if j != mod_i:
+                P_new[mod_i][j] *= (1 - reduction)
+        P_new[mod_i][mod_i] = 1 - P_new[mod_i].sum() + P_new[mod_i][mod_i]
+        vals, vecs = np.linalg.eig(P_new.T)
+        pi_new = vecs[:, np.argmax(vals)].real
+        pi_new = pi_new / pi_new.sum()
+        delta = np.abs(pi_new - self.pi).sum()
+        return delta
+
+
+# ─── 使用示例 ───
+
+model = HexagramMarkovModel()
+
+# 模拟 1000 次部署记录
+import random
+for _ in range(1000):
+    i = random.randint(0, 7)  # 改了哪个模块
+    j = random.randint(0, 7)  # 回归测试哪个模块
+    failed = random.random() < model.P[i][j]  # 按当前概率失败
+    model.record(i, j, failed)
+
+# 计算稳态
+pi = model.compute_steady_state()
+print("稳态分布 π (最大公约数):")
+for name, prob in zip(model.MODULES, pi):
+    print(f"  {name}: {prob:.3f}")
+
+# 最脆弱的模块
+print("\n最脆弱模块:")
+for name, prob in model.top_vulnerable(3):
+    print(f"  {name} (π={prob:.3f})")
+
+# 间接耦合探测
+gap = model.indirect_gap()
+print("\n间接耦合（P²-P 中最大的 5 个）:")
+indices = np.argsort(gap.flatten())[::-1][:5]
+for idx in indices:
+    i, j = divmod(idx, 8)
+    if gap[i][j] > 0.05:
+        print(f"  {model.MODULES[i]} →→ {model.MODULES[j]}: P²-P={gap[i][j]:.3f}")
+
+# 干预效果
+print("\n如果降低 震☳实现 的影响 50%:")
+delta = model.intervention_effect(3, 0.5)
+print(f"  系统平稳分布变化量: {delta:.4f}")
+```
+
+## 八阶段标准矩阵
+
+| ↓下卦 → 上卦 | 乾☰ 需求 | 兑☱ 契约 | 离☲ 架构 | 震☳ 实现 | 巽☴ 依赖 | 坎☵ 风险 | 艮☶ 回归 | 坤☷ 部署 |
+|---|---|---|---|---|---|---|---|---|
+| **乾☰ 需求** | ─ | 高 | 高 | 中 | 低 | 低 | 低 | 中 |
+| **兑☱ 契约** | — | ─ | 中 | 高 | 中 | 低 | 低 | 低 |
+| **离☲ 架构** | — | — | ─ | 高 | 高 | 中 | 低 | 中 |
+| **震☳ 实现** | — | — | — | ─ | 高 | 中 | 低 | 中 |
+| **巽☴ 依赖** | — | — | — | — | ─ | 高 | 中 | 中 |
+| **坎☵ 风险** | — | — | — | — | — | ─ | 强(门禁) | 低 |
+| **艮☶ 回归** | — | — | — | — | — | — | ─ | 高(门禁) |
+| **坤☷ 部署** | — | — | — | — | — | — | — | ─ |
+
+### 耦合强度定义
+
+| 强度 | 含义 | 示例 |
+|------|------|------|
+| **高** | 直接强依赖，改了 A 必须改 B | 架构改了 → 实现必须重写 |
+| **中** | 间接依赖，改了 A 大概率影响 B | 需求变了 → 实现可能需要调整 |
+| **低** | 弱关联，改了 A 可能需要关注 B | 需求变了 → 依赖配置可能变化 |
+| **强(门禁)** | 硬性阻断，B 不通过 A 不能前进 | 回归没过 → 不能部署 |
+| **─** | 自反/无关系 | 自己不影响自己 |
+
+## 工具级六十四卦矩阵（创建模板）
+
+### 快速构建方法
+
+1. 列出你智能体中的所有活跃工具：`web_search`, `fetch_page`, `write_file`, `execute_code`, `analyze_image`, `call_api` 等
+2. 创建一个 N×N 表格，N=工具数量
+3. 对每个 (下卦工具, 上卦工具)，问：改了下卦，上卦会受影响吗？
+4. 填耦合强度
+
+### 示例模板
+
+```python
+# 六十四卦矩阵生成器
+def build_hexagram_matrix(tools: list[str], dependencies: dict[tuple[str,str], str]) -> str:
+    """
+    tools: 模块/工具名列表
+    dependencies: {(提供方, 消费方): 强度}
+    
+    用法:
+    tools = ['web_search', 'fetch_page', 'write_file', 'sandbox_execute', 'analyze_image']
+    deps = {
+        ('web_search', 'fetch_page'): '高',  # 搜索提供了url给fetch
+        ('web_search', 'write_file'): '中',  # 搜索结果可写入
+        ('fetch_page', 'write_file'): '高',  # 抓取的内容写入
+        ('sandbox_execute', 'write_file'): '中',
+        ('sandbox_execute', 'fetch_page'): '低',
+        ('analyze_image', 'write_file'): '中',
+    }
+    print(build_hexagram_matrix(tools, deps))
+    """
+    header = "| ↓提供方 → 消费方 | " + " | ".join(tools) + " |"
+    sep = "|" + "---|" * (len(tools) + 1)
+    lines = [header, sep]
+    for t in tools:
+        row = [f"**{t}**"]
+        for u in tools:
+            if t == u:
+                row.append("─")
+            else:
+                strength = dependencies.get((t, u), "低")
+                row.append(strength)
+        lines.append("| " + " | ".join(row) + " |")
+    return "\n".join(lines)
+```
+
+### 圈复杂度计算公式
+
+```python
+def hexagram_metrics(matrix: dict[str, dict[str, str]]):
+    """
+    计算每个模块的影响半径和被影响负债
+    
+    matrix: {提供方: {消费方: 强度}}
+    
+    返回: {模块: (影响半径, 被影响负债, 危险等级)}
+    """
+    modules = list(matrix.keys())
+    weights = {'高': 3, '强': 3, '中': 2, '低': 1, '门禁': 3}
+    
+    result = {}
+    for m in modules:
+        # 影响半径 = 行总和（改了它影响谁）
+        impact = sum(weights.get(matrix[m].get(n, '低'), 0) 
+                    for n in modules if n != m)
+        # 被影响负债 = 列总和（谁改了影响它）
+        liability = sum(weights.get(matrix[n].get(m, '低'), 0)
+                       for n in modules if n != m)
+        
+        if impact >= 6:
+            danger = "⛔ 最危险"
+        elif impact >= 4:
+            danger = "⚠️ 高影响"
+        elif impact >= 2:
+            danger = "📌 需注意"
+        else:
+            danger = "✅ 低风险"
+        
+        result[m] = (impact, liability, danger)
+    
+    return result
+```
+
+## 六十四卦诊断流程
+
+### 修改前检查（读行法）
+
+```
+1. 找到要改的模块在矩阵中的行
+2. 标出所有"高/强/中"的格
+3. 这些格对应的上卦就是需要同步修改的模块
+4. 如果是"门禁"→ 必须先通过门禁条件
+```
+
+### 故障排查（读列法）
+
+```
+1. 找到出故障的模块在矩阵中的列
+2. 标出所有"高/强/中"的格
+3. 这些格对应的下卦就是优先排查方向
+4. 问：最近谁改过这些模块？
+```
+
+## 自建矩阵练习
+
+对活跃工具建立矩阵：
+
+| ↓工具 → 消费方 | web_search | fetch_page | write_file | analyze_image | sandbox_execute |
+|---|---|---|---|---|---|
+| **web_search** | ─ | 高 | 中 | — | — |
+| **fetch_page** | — | ─ | 高 | — | 中 |
+| **write_file** | — | — | ─ | — | — |
+| **analyze_image** | — | — | 中 | ─ | — |
+| **sandbox_execute** | — | — | 中 | — | ─ |
+
+圈复杂度计算：
+- `web_search`: 影响半径=高+中=2+1=3 ✅ 低风险
+- `fetch_page`: 影响半径=高+中=2+1=3 ✅ 低风险  
+- `write_file`: 影响半径=0 ⚠️ **极高被影响负债**（被4个下游消费）
+- `analyze_image`: 影响半径=中=1 ✅
+- `sandbox_execute`: 影响半径=中=1 ✅
